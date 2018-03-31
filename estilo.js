@@ -1,1 +1,0 @@
-<script src="jogo.js"></script>
